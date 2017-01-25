@@ -1,4 +1,4 @@
-﻿clone后安装npm install/npm i
+﻿clone后安装再npm install/npm i
 第3章的demo，主要讲了创建handlebars模板
 * 创建了public与views文件夹
 * 简单的中间件static
