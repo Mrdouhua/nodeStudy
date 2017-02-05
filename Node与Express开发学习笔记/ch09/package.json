@@ -1,0 +1,26 @@
+{
+  "name": "ch_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-session": "^1.15.0",
+    "express3-handlebars": "^0.5.2",
+    "formidable": "^1.1.1",
+    "jquery-file-upload-middleware": "^0.1.8"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "mocha": "^3.2.0",
+    "zombie": "^5.0.5"
+  }
+}
